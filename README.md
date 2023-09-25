@@ -1,2 +1,2 @@
 # kaon
-2D game engine
+SDR radio signal demodulator
